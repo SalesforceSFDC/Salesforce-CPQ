@@ -8,5 +8,6 @@
 * The process begins once a customer order is received. Once the order has been processed, the next steps include strategizing your supply chain on how to get products out of stock or manufacturing, preparing products for shipments, and delivering it to the customer. 
 * Once the product has shipped successfully, the final stages of O2C progress through invoicing the customer, collecting payments, and recording the revenue in your general ledger (back end ERP). 
 * O2C Does not Include the Processes of Configuration Pricing Quoting (CPQ).
+* Configuration, pricing and quoting (often referred to as CPQ) are the first stages of the Quote-to-Cash process. 
 
 ## Configuration Price Quoting = Quote to Cash
