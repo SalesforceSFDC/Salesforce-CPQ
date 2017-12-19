@@ -1,1 +1,1 @@
-# Salesforce-CPQ
+# Salesforce CPQ
