@@ -1,5 +1,8 @@
 # Contract Lifecycle Management Process
 
+## Resources
+* [Manage Your Quotes with CPQ](https://help.salesforce.com/articleView?id=cpq_master.htm&type=0)
+
 ## Order to Cash
 * Order to Cash, also referred to as OTC or O2C, is the set of business processes involved with receiving and fulfilling customer requests for goods and services.
 
